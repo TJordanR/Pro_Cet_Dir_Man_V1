@@ -1,0 +1,30 @@
+#ifndef IP_PROJETO_TESTE1_H_INCLUDED
+#define IP_PROJETO_TESTE1_H_INCLUDED
+
+///VALORES PARA VALIDAÇAO DA BIBLIOTECA!
+#define IP_RETORNO 100
+#define IP_CONFIG  100
+
+#include "IP_PROTOCOLO_TESTE.h"
+
+///TRATAMENTO DIRETO DO IP
+#define IP_PORTA
+IP_PORTA *ip_por;
+
+#define IP_MASCARA
+IP_MASCARA *ip_mas;
+
+///PROTOCOLO USADO PARA IP
+#define TCP
+TCP *pt_tcp;
+
+#define UDP
+UDP *pt_udp;
+
+#define FTP
+FTP *pt_ftp;
+
+
+
+
+#endif // IP_PROJETO_TESTE1_H_INCLUDED
