@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NETWORK" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NETWORK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/Dev-Cpp/lib/libws2_32.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NETWORK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CHAMADAS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CONFIGURACAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CONFIGURACAO.h" />
+		<Unit filename="DNS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DNS_PROJETO_TESTE1.h" />
+		<Unit filename="FTP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FTP_PROJETO_TESTE1.h" />
+		<Unit filename="GETWAY.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GETWAY_PROJETO_TESTE1.h" />
+		<Unit filename="HTTP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="IP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="IPSCANNER.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="IPSCANNER.h" />
+		<Unit filename="IP_PROJETO_TESTE1.h" />
+		<Unit filename="MAC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MAC_PROJETO_TESTE1.h" />
+		<Unit filename="MASCARA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MASCARA_PROJETO_TESTE1.h" />
+		<Unit filename="MENU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PORTAS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PORTAS_PROJETO_TESTE1.h" />
+		<Unit filename="TCP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TCP_PROJETO_TESTE1.h" />
+		<Unit filename="TELNET.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="UDP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="UDP_PROJETO_TESTE1.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

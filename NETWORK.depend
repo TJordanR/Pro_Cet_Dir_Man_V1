@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1543582823 source:c:\users\friba\documents\network\chamadas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	"GETWAY_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+	"IPSCANNER.h"
+
+1543579367 c:\users\friba\documents\network\getway_projeto_teste1.h
+
+1539291888 c:\users\friba\documents\network\ip_projeto_teste1.h
+
+1543610193 c:\users\friba\documents\network\ipscanner.h
+
+1540434994 source:c:\users\friba\documents\network\configuracao.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+	"MASCARA_PROJETO_TESTE1.h"
+	"MAC_PROJETO_TESTE1.h"
+	"GETWAY_PROJETO_TESTE1.h"
+
+1539496554 c:\users\friba\documents\network\mascara_projeto_teste1.h
+
+1540258784 c:\users\friba\documents\network\mac_projeto_teste1.h
+
+1540434932 source:c:\users\friba\documents\network\dns.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+	"DNS_PROJETO_TESTE1.h"
+
+1540253892 c:\users\friba\documents\network\dns_projeto_teste1.h
+
+1539557712 source:c:\users\friba\documents\network\ftp.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+
+1542907123 source:c:\users\friba\documents\network\getway.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	"GETWAY_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+
+1540614434 source:c:\users\friba\documents\network\http.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1543810243 source:c:\users\friba\documents\network\ip.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+
+1543811046 source:c:\users\friba\documents\network\ipscanner.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"IP_PROJETO_TESTE1.h"
+	"GETWAY_PROJETO_TESTE1.h"
+	"IPSCANNER.h"
+
+1540257802 source:c:\users\friba\documents\network\mac.c
+	<stdio.h>
+	<stdlib.h>
+	"MAC_PROJETO_TESTE1.h"
+
+1539482544 source:c:\users\friba\documents\network\mascara.c
+	<stdio.h>
+	<stdlib.h>
+	"MASCARA_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+	<stdio.h>
+	<stdlib.h>
+	"MASCARA_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+
+1543498277 source:c:\users\friba\documents\network\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+	"DNS_PROJETO_TESTE1.h"
+	"DNS.h"
+	"FTP.h"
+	"GETWAY.h"
+	"IP.h"
+	"MAC.h"
+	"MASCARA.h"
+	"TCP.h"
+	"UDP.h"
+
+1539566194 source:c:\users\friba\documents\network\portas.c
+
+1539579876 source:c:\users\friba\documents\network\tcp.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<stdio.h>
+	<winsock2.h>
+
+1539649270 source:c:\users\friba\documents\network\telnet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock.h>
+
+1539558744 source:c:\users\friba\documents\network\udp.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1543586423 source:c:\users\pcpc\documents\network\chamadas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	"GETWAY_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+	"IPSCANNER.h"
+
+1543582967 c:\users\pcpc\documents\network\getway_projeto_teste1.h
+
+1539295488 c:\users\pcpc\documents\network\ip_projeto_teste1.h
+
+1543613793 c:\users\pcpc\documents\network\ipscanner.h
+
+1540438594 source:c:\users\pcpc\documents\network\configuracao.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+	"MASCARA_PROJETO_TESTE1.h"
+	"MAC_PROJETO_TESTE1.h"
+	"GETWAY_PROJETO_TESTE1.h"
+
+1539500154 c:\users\pcpc\documents\network\mascara_projeto_teste1.h
+
+1540262384 c:\users\pcpc\documents\network\mac_projeto_teste1.h
+
+1540438532 source:c:\users\pcpc\documents\network\dns.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+	"DNS_PROJETO_TESTE1.h"
+
+1540257492 c:\users\pcpc\documents\network\dns_projeto_teste1.h
+
+1539561312 source:c:\users\pcpc\documents\network\ftp.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+
+1542910723 source:c:\users\pcpc\documents\network\getway.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	"GETWAY_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+
+1540618034 source:c:\users\pcpc\documents\network\http.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1543813843 source:c:\users\pcpc\documents\network\ip.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+
+1540261402 source:c:\users\pcpc\documents\network\mac.c
+	<stdio.h>
+	<stdlib.h>
+	"MAC_PROJETO_TESTE1.h"
+
+1539486144 source:c:\users\pcpc\documents\network\mascara.c
+	<stdio.h>
+	<stdlib.h>
+	"MASCARA_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+	<stdio.h>
+	<stdlib.h>
+	"MASCARA_PROJETO_TESTE1.h"
+	"IP_PROJETO_TESTE1.h"
+
+1543501877 source:c:\users\pcpc\documents\network\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"IP_PROJETO_TESTE1.h"
+	"DNS_PROJETO_TESTE1.h"
+	"DNS.h"
+	"FTP.h"
+	"GETWAY.h"
+	"IP.h"
+	"MAC.h"
+	"MASCARA.h"
+	"TCP.h"
+	"UDP.h"
+
+1539569794 source:c:\users\pcpc\documents\network\portas.c
+
+1539583476 source:c:\users\pcpc\documents\network\tcp.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<stdio.h>
+	<winsock2.h>
+
+1539652870 source:c:\users\pcpc\documents\network\telnet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock.h>
+
+1539562344 source:c:\users\pcpc\documents\network\udp.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1543813702 source:c:\users\pcpc\documents\network\ipscanner.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"IP_PROJETO_TESTE1.h"
+	"GETWAY_PROJETO_TESTE1.h"
+	"IPSCANNER.h"
+
